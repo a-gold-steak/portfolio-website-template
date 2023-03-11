@@ -30,7 +30,7 @@ Whichever method you decide to go with, you should be able to have the site up a
 - The website icons I used can be obtained from the following [site.](https://fontawesome.com/icons)
 - Free to use stock images can be obtained from [here.](https://www.pexels.com/) 
 
-#Acknowledgements
+# Acknowledgements
 I would like to thank the following sources for the help and the inspiration for this project.
 - [EasyTutorials](https://www.youtube.com/@EasyTutorialsVideo/videos)
 - [Free Frontend](https://freefrontend.com/)
