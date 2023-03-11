@@ -6,7 +6,7 @@
 
 Hello! 
 
-This is a template for a simple portfolio website built with HTML, CSS, and a bit of JavaScript. You can view a live demo [here.](https://a-gold-steak.github.io/home-lab_active-directory/#) The site is completely customizable to your liking. Want to send your website to a friend so they can have a good look over it? Great news! This website is also optimized for [mobile devices.](https://github.com/a-gold-steak/portfolio-website-template/blob/main/mobile-screenshot.png) Read on to see how to adapt this project, the website's features, and how to deploy the site.
+This is a template for a simple portfolio website built with HTML, CSS, and a bit of JavaScript. You can view a live demo [here.](https://a-gold-steak.github.io/portfolio-website-template/) The site is completely customizable to your liking. Want to send your website to a friend so they can have a good look over it? Great news! This website is also optimized for [mobile devices.](https://github.com/a-gold-steak/portfolio-website-template/blob/main/mobile-screenshot.png) Read on to see how to adapt this project, the website's features, and how to deploy the site.
 
 ## Adapting This Project
 This website can be easily edited to your liking. I recommend downloading all the assets by heading to *<>Code -> Download Zip.* You would then extract the files and open them in your code editor of choice. As for the code editor, you can use pretty much anything but my favorite editors for Windows are [Visual Studio Code](https://code.visualstudio.com/) or [Sublime Text.](https://www.sublimetext.com/) As for the Linux users, my favorite text editor to use is [vim.](https://www.educba.com/vim-command-in-linux/)
