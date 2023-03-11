@@ -16,7 +16,7 @@ This template contains the following easy-to-edit sections. Again this isn't com
 - About Me
 - Services you offer
 - A section to display personal projects or pieces of work
-* A "in-development" section that can be used to display progress in a piece of work or project
+- A "in-development" section that can be used to display progress in a piece of work or project
  - This section can also be used to display your progress in a skillset!(e.g. Python, AWS)
 - A section to show personal hobbies or interests
 - Contact Me information
